@@ -1,0 +1,44 @@
+nav {
+    background-color: #090254;
+    box-shadow: 0px 0px 3px rgba(71, 71, 71, 0.5);
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav a {
+    font-size: 28px;
+    color: white;
+}
+
+nav button {
+    border: none;
+    background-color: #090254;
+    font-size: 28px;
+    color: white;
+    padding: 10px;
+}
+
+nav button:hover {
+    color: white;
+    cursor: pointer;
+    background-color: #020476;
+    text-decoration: none;
+}
+
+ul ul li {
+    width: 100%;
+}
+
+.dropdown-list-item {
+    color: #090254;
+    font-size: 20px;
+    width: 100%;
+}
+
+.dropdown-list-item:hover {
+    color: #090254;
+    background-color: none;
+}
